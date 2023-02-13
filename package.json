@@ -1,0 +1,15 @@
+{
+  "name": "file_organizer_project",
+  "version": "1.0.0",
+  "description": "Organise your tedious files into different categories",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "buddy": "main.js"
+  }
+}
