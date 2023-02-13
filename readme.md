@@ -2,10 +2,12 @@
 ### Organise your tedious files into different categories
 
 This File manager offers the user to arrange/organise his files into following directories :
-* Media
+* Audio
+* Apps
 * Archives
 * Documents
-* Apps, and
+* Image
+* Video, and
 * Others 
 
 
