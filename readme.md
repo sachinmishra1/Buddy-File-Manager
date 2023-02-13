@@ -1,5 +1,5 @@
 # Buddy File Manager
-### Organise your tedious files into different categories
+## Organise your tedious files into different categories
 
 This File manager offers the user to arrange/organise his files into following directories :
 * Audio
@@ -10,9 +10,14 @@ This File manager offers the user to arrange/organise his files into following d
 * Video, and
 * Others 
 
-
-
 You may see your file structure in a tree format as well (It looks cool).
+
+## Enable
+To enable, go to the command prompt on your location and type :
+```js
+npm link
+```
+
 
 ## Commands:
 ```js
