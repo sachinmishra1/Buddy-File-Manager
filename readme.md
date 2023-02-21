@@ -21,10 +21,15 @@ npm link
 
 ## Commands:
 ```js
+//1. Tree: visualises all files & directories in a tree format 
 buddy tree //defaults current working directory
 buddy tree "directoryPath"
+
+//2. Organise: Organises all files within subfolders as mentioned above in an organised file folder.
 buddy organise "directoryPath" //defaults copy
-buddy organise "directoryPath" copy
-buddy organise "directoryPath" cut
+buddy organise "directoryPath" copy //copies the files
+buddy organise "directoryPath" cut //cuts the files from original location
+
+//3. Help command
 buddy help
 ```
